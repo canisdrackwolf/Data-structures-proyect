@@ -19,6 +19,7 @@ Data structures proyect.exe // Permite ejecutar el software sin tener instalado 
 ************************************************************************************************
 
 Esto es para editar
+completamente explicando cada parte del codigo 
 
 
 
